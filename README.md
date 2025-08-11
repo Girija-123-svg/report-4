@@ -1,0 +1,1 @@
+Successfully captured packets using Wireshark. Observed at least three different protocols: HTTP, DNS, and TCP. Packets included web browsing requests, DNS lookups, and TCP handshake messages. The traffic captured was normal for web browsing and basic network usage
